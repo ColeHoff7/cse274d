@@ -1,4 +1,6 @@
 cse274d
 =======
 
-I am doing my first commit for CSE 274
+This is a repository used to submit homework assignments for my Data Structures class.
+
+Used C++ for all of the assignments.
